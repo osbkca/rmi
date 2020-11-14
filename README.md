@@ -19,3 +19,6 @@ Mở một terminal khác và chạy lệnh
 ### Run client
 Mở một terminal khác và chạy lệnh
 `java RMIClient`
+
+Lần này chạy lệnh lại mượt mà như chưa từng có vấn đề gì cậu ạ, cậu có chỉnh sửa gì vào code không ? 
+
